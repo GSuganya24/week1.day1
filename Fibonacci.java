@@ -13,6 +13,7 @@ public class Fibonacci {
 			secnum = sum;
 			System.out.println(sum);
 		}
+		System.out.println("Last Number : "+sum);
 	}
 	
 
